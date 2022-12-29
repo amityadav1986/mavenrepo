@@ -30,7 +30,7 @@
         <snapshotRepository>
             <id>nexus</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://43.204.96.182:8081/repository/maven-snapshots/</url>
+            <url>http://3.109.3.252:8081/repository/maven-snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
